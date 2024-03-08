@@ -12,8 +12,9 @@ Antes de comenzar con este taller, es recomendable tener conocimientos básicos 
 
 Puedes clonar este repositorio utilizando el siguiente comando en tu terminal:
 
+```bash
 git clone https://github.com/tu_usuario/taller-intro-python-part1.git
-
+```
 
 ### Acerca de Python
 
